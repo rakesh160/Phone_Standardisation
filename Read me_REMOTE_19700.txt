@@ -9,8 +9,4 @@ adding
 added from local
 added from local2
 added from browser
-<<<<<<< HEAD
-added from local conflictd
-=======
 added from browser conflict
->>>>>>> beeee71c59ee9a488dfa0902e891c521a5ce8e52
