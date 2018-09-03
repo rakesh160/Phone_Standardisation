@@ -8,3 +8,4 @@ prefixmapper-2.60.jar
 adding
 added from local
 added from local2
+added from browser
